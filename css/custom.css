@@ -3,7 +3,7 @@
 }
 .navbar-brand {
 	font-size: 20px;
-	color: #f7f7f7;
+	color: white;
 	font-family: 'Montserrat', sans-serif;
 }
 body {
@@ -20,7 +20,7 @@ p {
 	color: #cdcdcd;
 }
 .jumbotron {
-	background: #27A967;
+	background: #6600CC;
 	color: white;
 	text-align: center;
 }
